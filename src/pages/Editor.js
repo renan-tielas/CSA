@@ -11,7 +11,7 @@ const Editor = () => {
 
     return (
 
-        <div className={styles.conteudoeditor} >
+        <div className={styles.conteudo} >
             {/* conteudo */}
             <Formulario></Formulario>
           

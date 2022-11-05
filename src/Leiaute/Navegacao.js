@@ -14,7 +14,7 @@ let estado_botao = false;
 
 const Navegacao = () => {
     let estaAtivo
-    const [ativo, tornaAtivo] = useState("-1")
+    const [ativo, tornaAtivo] = useState()
 
     const pegaClique = (id) => {
    
